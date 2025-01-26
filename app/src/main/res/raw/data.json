@@ -1,0 +1,989 @@
+{
+  "data": [
+    {
+      "S No.": 1,
+      "symptoms": "Congential heart disease",
+      "Medicine": "Guggulu, Arjuna, Pushkarmoola, Lasuna, Amalaki and Jatamansi"
+    },
+    {
+      "S No.": 2,
+      "symptoms": "Coronary heart disease",
+      "Medicine": "Hrudya vati "
+    },
+    {
+      "S No.": 3,
+      "symptoms": "Atherosclerosis",
+      "Medicine": "Statins"
+    },
+    {
+      "S No.": 4,
+      "symptoms": "Cardiomyopathy",
+      "Medicine": "Arjuna (Terminalia arjuna), Punarnava (Boerhavia diffusa), Pipal tvak (Ficus religiosa), Dalchini (Cinnamon tamala), Choti elaichi (Elettaria cardamom)"
+    },
+    {
+      "S No.": 5,
+      "symptoms": "Heart attack",
+      "Medicine": "Adenosine"
+    },
+    {
+      "S No.": 6,
+      "symptoms": "Pericarditis",
+      "Medicine": "aspirin or ibuprofen (Advil, Motrin IB, others)"
+    },
+    {
+      "S No.": 7,
+      "symptoms": "Peripheral vascular disease",
+      "Medicine": "Panchakarma"
+    },
+    {
+      "S No.": 8,
+      "symptoms": "Rheumatic heart disease",
+      "Medicine": "Arjun herb products, tea or capsules"
+    },
+    {
+      "S No.": 9,
+      "symptoms": "Aortic valve stenosis",
+      "Medicine": "ACE inhibitors"
+    },
+    {
+      "S No.": 10,
+      "symptoms": "Congestive heart failure",
+      "Medicine": "Pipal tvak (Ficus religiosa)"
+    },
+    {
+      "S No.": 11,
+      "symptoms": "Atrial fibrillation",
+      "Medicine": "Mandukaparni"
+    },
+    {
+      "S No.": 12,
+      "symptoms": "Fatty liver",
+      "Medicine": "Rohitkarishta, and aarogyavardhini vati"
+    },
+    {
+      "S No.": 13,
+      "symptoms": "Hepatitis",
+      "Medicine": "entecavir (Baraclude), tenofovir (Viread), lamivudine (Epivir), adefovir (Hepsera) and telbivudine"
+    },
+    {
+      "S No.": 14,
+      "symptoms": "Hepatitis A",
+      "Medicine": "Toxin elimination"
+    },
+    {
+      "S No.": 15,
+      "symptoms": "Hepatitis B",
+      "Medicine": "Chronic hepatitis B infection can be treated with potent drugs like tenofovir or entecavir and oral antiviral agents."
+    },
+    {
+      "S No.": 16,
+      "symptoms": "Hepatitis C",
+      "Medicine": "katuki, kalmegha, haritaki, and guduchi"
+    },
+    {
+      "S No.": 17,
+      "symptoms": "Hepatitis E",
+      "Medicine": "What medicines are given for hepatitis E?\nThere is no specific antiviral therapy for acute hepatitis E. Physicians should offer supportive therapy. Patients are typically advised to rest, get adequate nutrition and fluids, avoid alcohol, and check with their physician before taking any medications that can damage the liver, especially acetaminophen"
+    },
+    {
+      "S No.": 18,
+      "symptoms": "Non alcoholic fatty liver disease",
+      "Medicine": "Rohitkarishta, and aarogyavardhini vati"
+    },
+    {
+      "S No.": 19,
+      "symptoms": "Cirrhosis",
+      "Medicine": "Punarnava for Liver Cirrhosis"
+    },
+    {
+      "S No.": 20,
+      "symptoms": "Chronic kidney disease",
+      "Medicine": "angiotensin converting enzyme (ACE) inhibitors"
+    },
+    {
+      "S No.": 21,
+      "symptoms": "Gallstones",
+      "Medicine": "Mixing kalonji seeds with honey, kalonji or black seed oil and warm water and drinking this tonic on an empty stomach aids in dissolving gallstones"
+    },
+    {
+      "S No.": 22,
+      "symptoms": "Kidney infection\/Pyelonephritis",
+      "Medicine": "Various Medicines used for Paralysis or stroke treatment in Ayurveda: Dhanadanayanadi Kashayam, Dhanwantara Kashayam, Ashtavarga Kashayam, Bala arista, and Ashwagandharishta. Ashwagandha, Bala churna"
+    },
+    {
+      "S No.": 23,
+      "symptoms": "Kidney stones",
+      "Medicine": "Crataeva nurvala or Varun bark"
+    },
+    {
+      "S No.": 24,
+      "symptoms": "Kidney failure",
+      "Medicine": "ACE inhibitors and ARBs"
+    },
+    {
+      "S No.": 25,
+      "symptoms": "Polycystic kidney disease",
+      "Medicine": "Tolvaptan"
+    },
+    {
+      "S No.": 26,
+      "symptoms": "Diabetic Nephropathy",
+      "Medicine": "Manjishtha"
+    },
+    {
+      "S No.": 27,
+      "symptoms": "Nephrotic syndrome",
+      "Medicine": "Punarnava (boerhavia diffusa)"
+    },
+    {
+      "S No.": 28,
+      "symptoms": "Glomerulonephritis",
+      "Medicine": "Punarnava (boerhavia diffusa)"
+    },
+    {
+      "S No.": 29,
+      "symptoms": "Epilepsy",
+      "Medicine": "Ashwagandharishta"
+    },
+    {
+      "S No.": 30,
+      "symptoms": "Stroke",
+      "Medicine": "Various Medicines used for Paralysis or stroke treatment in Ayurveda: Dhanadanayanadi Kashayam, Dhanwantara Kashayam, Ashtavarga Kashayam, Bala arista, and Ashwagandharishta. Ashwagandha, Bala churna"
+    },
+    {
+      "S No.": 31,
+      "symptoms": "Brain aneurysm",
+      "Medicine": " surgery or an endovascular procedure"
+    },
+    {
+      "S No.": 32,
+      "symptoms": "Parkinson's disease",
+      "Medicine": "Levodopa"
+    },
+    {
+      "S No.": 33,
+      "symptoms": "Bipolar disorder",
+      "Medicine": "Brahmi"
+    },
+    {
+      "S No.": 34,
+      "symptoms": "Dementia",
+      "Medicine": "Ashwagandha"
+    },
+    {
+      "S No.": 35,
+      "symptoms": "Alzheimer’s disease",
+      "Medicine": "Aducanumab"
+    },
+    {
+      "S No.": 36,
+      "symptoms": "Depression",
+      "Medicine": "Long before mental health drugs were created, brahmi has been used in Ayurveda to support proper function of the nervous system, help reduce anxiety, depression and stress, improve your memory and even boost your ability to receive inspiration"
+    },
+    {
+      "S No.": 37,
+      "symptoms": "Schizophrenia",
+      "Medicine": "Antipsychotic medications"
+    },
+    {
+      "S No.": 38,
+      "symptoms": "Acidity",
+      "Medicine": "esomeprazole (Nexium), lansoprazole (Prevacid), omeprazole (Prilosec), pantoprazole (Protonix), rabeprazole (Aciphex) and dexlansoprazole (Dexilant)"
+    },
+    {
+      "S No.": 39,
+      "symptoms": "Appendicitis",
+      "Medicine": "cefotetan"
+    },
+    {
+      "S No.": 40,
+      "symptoms": "Dyspepsia",
+      "Medicine": "cimetidine (Tagamet HB), famotidine (Pepcid AC) and nizatidine (Axid AR)"
+    },
+    {
+      "S No.": 41,
+      "symptoms": "Food poisoning",
+      "Medicine": "loperamide link (Imodium) and bismuth subsalicylate link (Pepto-Bismol, Kaopectate) "
+    },
+    {
+      "S No.": 42,
+      "symptoms": "Gastritis",
+      "Medicine": "Triphla powder"
+    },
+    {
+      "S No.": 43,
+      "symptoms": "Gastroenteritis",
+      "Medicine": "Tinospora cordifolia (Guloochi), Embelia ribes (Vidanga), Glycyrrhiza glabra (Mulethi), Aegle marmelos (Bilva) and Holarrhena antidysenterica (Kutaja)"
+    },
+    {
+      "S No.": 44,
+      "symptoms": "IBS",
+      "Medicine": "Dhavani"
+    },
+    {
+      "S No.": 45,
+      "symptoms": "Peptic ulcer",
+      "Medicine": "Jaiphal Powder"
+    },
+    {
+      "S No.": 46,
+      "symptoms": "Colitis",
+      "Medicine": "sulfasalazine (azulfidine), mesalamaine (Rowasa, Asacol), balsalazide (colazal), olsalazine (dipentum)"
+    },
+    {
+      "S No.": 47,
+      "symptoms": "Food allergy",
+      "Medicine": "Panchakarma therapy"
+    },
+    {
+      "S No.": 48,
+      "symptoms": "Allergic rhinitis",
+      "Medicine": "montelukast and zafirlukast"
+    },
+    {
+      "S No.": 49,
+      "symptoms": "Asthma",
+      "Medicine": "Dabur's Shwaasamrit"
+    },
+    {
+      "S No.": 50,
+      "symptoms": "Cystic fibrosis",
+      "Medicine": "mucolytics"
+    },
+    {
+      "S No.": 51,
+      "symptoms": "Adenovirus",
+      "Medicine": "There are no approved antiviral medicines and no specific treatment for people with adenovirus infection. Most adenovirus infections are mild and may be managed with rest and over-the-counter pain medicines or fever reducers to help relieve symptoms"
+    },
+    {
+      "S No.": 52,
+      "symptoms": "Dry cough",
+      "Medicine": "dextromethorphan (Robitussin, Delsym),"
+    },
+    {
+      "S No.": 53,
+      "symptoms": "Lung disease",
+      "Medicine": "Kalmegh root and leaf"
+    },
+    {
+      "S No.": 54,
+      "symptoms": "MERS-CoV",
+      "Medicine": "No vaccine or specific treatment for MERS is currently available, however there are several vaccines for MERS in development."
+    },
+    {
+      "S No.": 55,
+      "symptoms": "Pneumonia",
+      "Medicine": "Turmeric Powder"
+    },
+    {
+      "S No.": 56,
+      "symptoms": "Productive cough",
+      "Medicine": "Mulethi or Licorice, also known as “Sweet wood”"
+    },
+    {
+      "S No.": 57,
+      "symptoms": "Bronchitis",
+      "Medicine": "Doxycycline and amoxicillin"
+    },
+    {
+      "S No.": 58,
+      "symptoms": "COPD",
+      "Medicine": "Corticosteroids"
+    },
+    {
+      "S No.": 59,
+      "symptoms": "Cough and cold",
+      "Medicine": "dextromethorphan"
+    },
+    {
+      "S No.": 60,
+      "symptoms": "Emphysema",
+      "Medicine": "Bronchodilators"
+    },
+    {
+      "S No.": 61,
+      "symptoms": "Tuberculosis",
+      "Medicine": "isoniazid, rifampicin, pyrazinamide and ethambutol"
+    },
+    {
+      "S No.": 62,
+      "symptoms": "Drug resistant TB",
+      "Medicine": "Levofloxacin and moxifloxacin"
+    },
+    {
+      "S No.": 63,
+      "symptoms": "Multi-drug resistant TB",
+      "Medicine": "Levofloxacin and moxifloxacin"
+    },
+    {
+      "S No.": 64,
+      "symptoms": "Blepharitis",
+      "Medicine": "swedana & bhedana Pratisarana"
+    },
+    {
+      "S No.": 65,
+      "symptoms": "Cataract",
+      "Medicine": "Maha Triphala ghrita"
+    },
+    {
+      "S No.": 66,
+      "symptoms": "Dry eyes",
+      "Medicine": "Triphala"
+    },
+    {
+      "S No.": 67,
+      "symptoms": "Glaucoma",
+      "Medicine": "Akshitarpana or Netravasti"
+    },
+    {
+      "S No.": 68,
+      "symptoms": "Retinal detachment",
+      "Medicine": "Topical difluprednate and prednisolone acetate"
+    },
+    {
+      "S No.": 69,
+      "symptoms": "Strabismus",
+      "Medicine": "Botulinum A toxin (introduced as Oculinum), now called Botox"
+    },
+    {
+      "S No.": 70,
+      "symptoms": "Stye",
+      "Medicine": "Neem Wash"
+    },
+    {
+      "S No.": 71,
+      "symptoms": "Chalazion",
+      "Medicine": "Moxifloxacin Eye Ointment, marketed under the trade name Remoxy"
+    },
+    {
+      "S No.": 72,
+      "symptoms": "Colour blindness",
+      "Medicine": "There's no cure for color blindness, and no medical treatments currently exist for inherited forms of color blindness"
+    },
+    {
+      "S No.": 73,
+      "symptoms": "Hyperopia or farsightedness",
+      "Medicine": "Dabur Ashokaristha"
+    },
+    {
+      "S No.": 74,
+      "symptoms": "Myopia or nearsightedness",
+      "Medicine": "Netra Tarpan"
+    },
+    {
+      "S No.": 75,
+      "symptoms": "Eye twitching",
+      "Medicine": "botulinum toxin (Botox, Dysport, Xeomin)"
+    },
+    {
+      "S No.": 76,
+      "symptoms": "Hyperthyroidism",
+      "Medicine": "Anti Thyrox"
+    },
+    {
+      "S No.": 77,
+      "symptoms": "Hypothyroidism",
+      "Medicine": "kanchnar, Bauhinia variegata i.e. purple mountain ebony, Jatamansi, brahmi, guggulu, shilajit, gokshura, and punarnava."
+    },
+    {
+      "S No.": 78,
+      "symptoms": "Insomnia",
+      "Medicine": "eszopiclone (Lunesta), Zolpidem (Ambein), Ramelteon (Rozerem) and Zaleplon (sonata)"
+    },
+    {
+      "S No.": 79,
+      "symptoms": "Thyroid disease",
+      "Medicine": "Jalkumbhi and drumstick help to increase iodine levels in the body, Dhaniya (coriander) and jeerak siddha jala "
+    },
+    {
+      "S No.": 80,
+      "symptoms": "Diabetes",
+      "Medicine": "Chlorpropamide"
+    },
+    {
+      "S No.": 81,
+      "symptoms": "Diabetic foot",
+      "Medicine": "Pregabalin"
+    },
+    {
+      "S No.": 82,
+      "symptoms": "Diabetic gangrene",
+      "Medicine": "penicillin and clindamycin "
+    },
+    {
+      "S No.": 83,
+      "symptoms": "Diabetic ketoacidosis",
+      "Medicine": "Insulin therapy"
+    },
+    {
+      "S No.": 84,
+      "symptoms": "Diabetic nephropathy",
+      "Medicine": "Manjishtha"
+    },
+    {
+      "S No.": 85,
+      "symptoms": "Diabetic neuropathy",
+      "Medicine": "Ashwagandha"
+    },
+    {
+      "S No.": 86,
+      "symptoms": "Type 1 diabetes",
+      "Medicine": "Amla or the Indian gooseberry"
+    },
+    {
+      "S No.": 87,
+      "symptoms": "Gestational diabetes",
+      "Medicine": "glyburide and metformin "
+    },
+    {
+      "S No.": 88,
+      "symptoms": "Type 2 Diabetes ",
+      "Medicine": "Amla and Triphala"
+    },
+    {
+      "S No.": 89,
+      "symptoms": "Frozen shoulder",
+      "Medicine": " aspirin and ibuprofen (Advil, Motrin IB, others) "
+    },
+    {
+      "S No.": 90,
+      "symptoms": "Paralysis",
+      "Medicine": "dichlorphenamide or diuretics such as acetazolamide"
+    },
+    {
+      "S No.": 91,
+      "symptoms": "Sciatica",
+      "Medicine": " ibuprofen (Advil, Motrin IB, others) and naproxen sodium (Aleve)"
+    },
+    {
+      "S No.": 92,
+      "symptoms": "Varicose veins",
+      "Medicine": "Motrin "
+    },
+    {
+      "S No.": 93,
+      "symptoms": "Bell's Palsy",
+      "Medicine": "Garlic, Ajwain, Turmeric, Shunthi, and Heeng"
+    },
+    {
+      "S No.": 94,
+      "symptoms": "Anaemia",
+      "Medicine": "Dabur Lauhasava"
+    },
+    {
+      "S No.": 95,
+      "symptoms": "Hypertension",
+      "Medicine": "enalapril, lisinopril, perindopril and ramipril"
+    },
+    {
+      "S No.": 96,
+      "symptoms": "Thalassemia",
+      "Medicine": "Giloy Sattva"
+    },
+    {
+      "S No.": 97,
+      "symptoms": "Aneurysm",
+      "Medicine": "nimodipine"
+    },
+    {
+      "S No.": 98,
+      "symptoms": "Deep vein thrombosis",
+      "Medicine": "Kashya Dhara"
+    },
+    {
+      "S No.": 99,
+      "symptoms": "Arthritis",
+      "Medicine": "celecoxib"
+    },
+    {
+      "S No.": 100,
+      "symptoms": "Back pain",
+      "Medicine": "Guggul, Nirgundi, Shallaki, and Ginger"
+    },
+    {
+      "S No.": 101,
+      "symptoms": "Brittle bone disease or osteogenesis imperfecta",
+      "Medicine": "Bisphosphonates"
+    },
+    {
+      "S No.": 102,
+      "symptoms": "Carpal Tunnel syndrome",
+      "Medicine": "Lepana"
+    },
+    {
+      "S No.": 103,
+      "symptoms": "Osteomyelitits",
+      "Medicine": "the vidradhi is treated with lepana (external application of suitable drug) and upanaha (bandage with medicines). Raktamoksha (blood-letting) helps in correcting the raktadushti. Associated disease (eg: diabetes) should also be treated."
+    },
+    {
+      "S No.": 104,
+      "symptoms": "Osteoporosis",
+      "Medicine": "CALCI-7 (CA)"
+    },
+    {
+      "S No.": 105,
+      "symptoms": "Slipped disc",
+      "Medicine": "acetaminophen (Tylenol, others) ibuprofen (Advil, Motrin IB, others) or naproxen sodium (Aleve)"
+    },
+    {
+      "S No.": 106,
+      "symptoms": "Cervical spondylosis ",
+      "Medicine": "Ayurvedic medicines like shallaki, Rasna, Guggulu (Commiphora mukul), Guduchi (Tinospora cordifolia), Ashwagandha (Withania somnifera), Shunthi (Ginger) as well as some rasa medicines like vata vidhvans rasa, bruhat vata chintamani ras"
+    },
+    {
+      "S No.": 107,
+      "symptoms": "Allergies",
+      "Medicine": "Cetirizine (Zyrtec, Zyrtec Allergy)"
+    },
+    {
+      "S No.": 108,
+      "symptoms": "Anaphylaxis",
+      "Medicine": "Sanjeevani gutika and Haridra khanda"
+    },
+    {
+      "S No.": 109,
+      "symptoms": "Atopic dermatitis",
+      "Medicine": "cetirizine (Zyrtec Allergy) or fexofenadine (Allegra Allergy)"
+    },
+    {
+      "S No.": 110,
+      "symptoms": "Dermatitis",
+      "Medicine": "Hydrocortisone cream"
+    },
+    {
+      "S No.": 111,
+      "symptoms": "Seborrheic dermatitis",
+      "Medicine": "Synalar (fluocinolone), Clobex (clobetasol), Cormax, DesOwen (desonide), and Desonate"
+    },
+    {
+      "S No.": 112,
+      "symptoms": "Burns",
+      "Medicine": "Jatyadi Oil"
+    },
+    {
+      "S No.": 113,
+      "symptoms": "Cellulitis",
+      "Medicine": "Gokshura"
+    },
+    {
+      "S No.": 114,
+      "symptoms": "Contact dermatitis",
+      "Medicine": "Put on the itchy area 1% hydrocortisone cream or ointment (Cortizone 10, others)"
+    },
+    {
+      "S No.": 115,
+      "symptoms": "Eczema",
+      "Medicine": "cetirizine (Zyrtec Allergy) or fexofenadine (Allegra Allergy)"
+    },
+    {
+      "S No.": 116,
+      "symptoms": "Folliculitis",
+      "Medicine": "Yashtimadhu + Kapardika"
+    },
+    {
+      "S No.": 117,
+      "symptoms": "Keloids   ",
+      "Medicine": "Triphala-Guggulu, KaisoraGuggulu, Maha manjishthadi kashayam, Guggulu thikthakam kashayam, varanadikashayam"
+    },
+    {
+      "S No.": 118,
+      "symptoms": "Cleft lip palate",
+      "Medicine": "A cleft is usually treated with surgery"
+    },
+    {
+      "S No.": 119,
+      "symptoms": "Mouth ulcers",
+      "Medicine": "Turmeric is an antiseptic, which is used in almost all Indian dishes"
+    },
+    {
+      "S No.": 120,
+      "symptoms": "Oral thrush",
+      "Medicine": "fluconazole (Diflucan)"
+    },
+    {
+      "S No.": 121,
+      "symptoms": "Gum disease",
+      "Medicine": "amla "
+    },
+    {
+      "S No.": 122,
+      "symptoms": "Periodontitis",
+      "Medicine": "Dashansanskar churana, Khadiradi vati, and Neem "
+    },
+    {
+      "S No.": 123,
+      "symptoms": "Teeth sensitivity",
+      "Medicine": "Fluoride"
+    },
+    {
+      "S No.": 124,
+      "symptoms": "Dry mouth",
+      "Medicine": "Cayenne pepper, fennel seeds, cardamom"
+    },
+    {
+      "S No.": 125,
+      "symptoms": "Bad breath",
+      "Medicine": "Mouthwashes that contain antibacterial agents cetylpyridinium chloride (Cepacol), chlorhexidine (Peridex) or hydrogen peroxide"
+    },
+    {
+      "S No.": 126,
+      "symptoms": "Oral cancer",
+      "Medicine": "Radiation Therapy"
+    },
+    {
+      "S No.": 127,
+      "symptoms": "Breast cancer",
+      "Medicine": "Withania somnifera"
+    },
+    {
+      "S No.": 128,
+      "symptoms": "Thyroid cancer",
+      "Medicine": "Cabozantinib-S-Malate."
+    },
+    {
+      "S No.": 129,
+      "symptoms": "Cancers in children",
+      "Medicine": "surgery, chemotherapy, radiation, or a combination of those therapies"
+    },
+    {
+      "S No.": 130,
+      "symptoms": "Lung cancer",
+      "Medicine": "Afinitor (Everolimus)"
+    },
+    {
+      "S No.": 131,
+      "symptoms": "Prostate cancer",
+      "Medicine": "Punarnava or Boerhavia Diffusa"
+    },
+    {
+      "S No.": 132,
+      "symptoms": "Cervical cancer",
+      "Medicine": "Commiphora Mukul or Guggul"
+    },
+    {
+      "S No.": 133,
+      "symptoms": "Ovarian cancer",
+      "Medicine": "Cisplatin, carboplatin, and paclitaxel"
+    },
+    {
+      "S No.": 134,
+      "symptoms": "Skin cancer",
+      "Medicine": "Astralagus"
+    },
+    {
+      "S No.": 135,
+      "symptoms": "Bowel cancer",
+      "Medicine": "Ashwagandha"
+    },
+    {
+      "S No.": 136,
+      "symptoms": "Colorectal cancer",
+      "Medicine": "Ashwagandha "
+    },
+    {
+      "S No.": 137,
+      "symptoms": "Oesophageal cancer",
+      "Medicine": "Surgery is the most common treatment for cancer of the esophagus"
+    },
+    {
+      "S No.": 138,
+      "symptoms": "Uterine cancer",
+      "Medicine": "Ashwagandha"
+    },
+    {
+      "S No.": 139,
+      "symptoms": "Lupus",
+      "Medicine": "Nonsteroidal anti-inflammatory drugs (NSAIDs)"
+    },
+    {
+      "S No.": 140,
+      "symptoms": "Graves disease",
+      "Medicine": "propylthiouracil and methimazole (Tapazole)"
+    },
+    {
+      "S No.": 141,
+      "symptoms": "Lichen planus",
+      "Medicine": "panchakarma procedures to eliminate ama, correction of Agni, application of herbal oil and lepa, and use of rasayana to reduce the symptoms"
+    },
+    {
+      "S No.": 142,
+      "symptoms": "Psoriasis",
+      "Medicine": "Methotrexate"
+    },
+    {
+      "S No.": 143,
+      "symptoms": "Vitiligo",
+      "Medicine": "Bakuchi (Psoralea Corylifolia)"
+    },
+    {
+      "S No.": 144,
+      "symptoms": "Addison’s disease",
+      "Medicine": "hydrocortisone "
+    },
+    {
+      "S No.": 145,
+      "symptoms": "Celiac disease",
+      "Medicine": "azathioprine (Azasan, Imuran) or budesonide (Entocort EC, Uceris)"
+    },
+    {
+      "S No.": 146,
+      "symptoms": "Crohn’s disease",
+      "Medicine": "steroids (such as prednisolone)"
+    },
+    {
+      "S No.": 147,
+      "symptoms": "Ulcerative colitis",
+      "Medicine": "sulfasalazine (azulfidine), mesalamaine (Rowasa, Asacol), balsalazide (colazal), olsalazine (dipentum)."
+    },
+    {
+      "S No.": 148,
+      "symptoms": "Sjogern’s syndrome",
+      "Medicine": "It involves treatments like- Deepan-pachana, Mridu virechan, Basti, Seka, Aschyotan, Akshi tarpana, Nasya, Anjana, etc"
+    },
+    {
+      "S No.": 149,
+      "symptoms": "Aplastic anaemia",
+      "Medicine": "Jivaniya Gana dravya, Bruhaniya Dravya and Raktaprasadana Dravya"
+    },
+    {
+      "S No.": 150,
+      "symptoms": "Pernicious anaemia",
+      "Medicine": "Parenteral injection of cyanocobalamin (Vitamin B12)"
+    },
+    {
+      "S No.": 151,
+      "symptoms": "Ankylosing spondylitis",
+      "Medicine": "IL-17 inhibitors"
+    },
+    {
+      "S No.": 152,
+      "symptoms": "Lyme disease",
+      "Medicine": "The Ayurvedic self-care practice called abhyanga can decrease vata, reduce anxiety, and lubricate the muscles, tissues, and joints, especially when lyme manifests as musculoskeletal pain, Gerard says. Warming oils, such as sesame oil or a vata-balancing oil blend, are the most useful."
+    },
+    {
+      "S No.": 153,
+      "symptoms": "Sarcoidosis",
+      "Medicine": "Rheumatoid arthritis"
+    },
+    {
+      "S No.": 154,
+      "symptoms": "Rheumatoid arthritis",
+      "Medicine": "Boswellia serrata (Indian frankincense)"
+    },
+    {
+      "S No.": 155,
+      "symptoms": "Fibromyalgia",
+      "Medicine": "Panchakarma"
+    },
+    {
+      "S No.": 156,
+      "symptoms": "Myasthenia gravis",
+      "Medicine": "Ashwagandha"
+    },
+    {
+      "S No.": 157,
+      "symptoms": "Multiple sclerosis",
+      "Medicine": "Langhana therapy"
+    },
+    {
+      "S No.": 158,
+      "symptoms": "Optic neuritis",
+      "Medicine": "Raktamokshanam"
+    },
+    {
+      "S No.": 159,
+      "symptoms": "Restless leg syndrome",
+      "Medicine": "nervine sedatives consisting of skullcaps and jatamamsi"
+    },
+    {
+      "S No.": 160,
+      "symptoms": "Meniere’s disease",
+      "Medicine": "Panchakarma therapy"
+    },
+    {
+      "S No.": 161,
+      "symptoms": "Kawasaki disease",
+      "Medicine": "gamma globulin"
+    },
+    {
+      "S No.": 162,
+      "symptoms": "Swine flu",
+      "Medicine": "Shadanga Paneeya"
+    },
+    {
+      "S No.": 163,
+      "symptoms": "UTIs",
+      "Medicine": "Gokshura: Gokshura(Tribulus Terrestris)"
+    },
+    {
+      "S No.": 164,
+      "symptoms": "Ebola",
+      "Medicine": "mAb114 (known as Ansuvimab or Ebanga) and REGN-EB3 (Inmazeb)"
+    },
+    {
+      "S No.": 165,
+      "symptoms": "Dengue",
+      "Medicine": "Paracetamol"
+    },
+    {
+      "S No.": 166,
+      "symptoms": "Piles",
+      "Medicine": "Hydrocortisone treatments"
+    },
+    {
+      "S No.": 167,
+      "symptoms": "Vertigo",
+      "Medicine": "meclizine or dimenhydrinate (Dramamine)"
+    },
+    {
+      "S No.": 168,
+      "symptoms": "Bird flu",
+      "Medicine": "oseltamivir (Tamiflu), peramivir (Rapivab), or zanamivir (Relenza)"
+    },
+    {
+      "S No.": 169,
+      "symptoms": "Ovarian cysts",
+      "Medicine": "ethinyl estradiol \/ levonorgestrel"
+    },
+    {
+      "S No.": 170,
+      "symptoms": "Malaria",
+      "Medicine": "Quinine sulfate (Qualaquin) with doxycycline (Oracea, Vibramycin, others) Primaquine phosphate."
+    },
+    {
+      "S No.": 171,
+      "symptoms": "Hivaids",
+      "Medicine": "antiretroviral therapy (ART)"
+    },
+    {
+      "S No.": 172,
+      "symptoms": "Hernia",
+      "Medicine": "cimetidine (Tagamet HB), famotidine (Pepcid AC) and nizatidine (Axid AR)"
+    },
+    {
+      "S No.": 173,
+      "symptoms": "Endometriosis",
+      "Medicine": "Panchakarma"
+    },
+    {
+      "S No.": 174,
+      "symptoms": "Chikungunya",
+      "Medicine": "Tinospora, Chirayata, Andrographis paniculata, Neem"
+    },
+    {
+      "S No.": 175,
+      "symptoms": "Rabies",
+      "Medicine": "Dhatura with Shweta Aparajita \/Punrnava or Sharaqpunkha 1 Karsh + Dhatura ½ Karsha with rice water"
+    },
+    {
+      "S No.": 176,
+      "symptoms": "PCOS",
+      "Medicine": "clomifene"
+    },
+    {
+      "S No.": 177,
+      "symptoms": "Fractures",
+      "Medicine": "acetaminophen (Tylenol, others) or ibuprofen (Advil, Motrin IB, others)"
+    },
+    {
+      "S No.": 178,
+      "symptoms": "Blocked milk ducts",
+      "Medicine": "Ibuprofen"
+    },
+    {
+      "S No.": 179,
+      "symptoms": "fever",
+      "Medicine": "Paracetamol"
+    },
+    {
+      "S No.": 180,
+      "symptoms": "Cough",
+      "Medicine": "Cough suppressants (antitussives), like dextromethorphan (Robitussin, Delsym)"
+    },
+    {
+      "S No.": 181,
+      "symptoms": "Breathlessness",
+      "Medicine": "Pulmoclear Tablet"
+    },
+    {
+      "S No.": 182,
+      "symptoms": "Fatigue",
+      "Medicine": "Zandu Shilajit Capsule"
+    },
+    {
+      "S No.": 183,
+      "symptoms": "Loss of appetite",
+      "Medicine": "Shivakshar Appetite Loss Tablet"
+    },
+    {
+      "S No.": 184,
+      "symptoms": "Headache",
+      "Medicine": "Crocin Pain Relief"
+    },
+    {
+      "S No.": 185,
+      "symptoms": "vomiting",
+      "Medicine": "Bismuth subsalicylate (2 brand names: Kaopectate, Pepto-Bismol)"
+    },
+    {
+      "S No.": 186,
+      "symptoms": "Diarrhea",
+      "Medicine": "LOPERAMIDE"
+    },
+    {
+      "S No.": 187,
+      "symptoms": "Abdominal pain",
+      "Medicine": "loperamide (Imodium) or bismuth subsalicylate (Kaopectate or Pepto-Bismol)"
+    },
+    {
+      "S No.": 188,
+      "symptoms": "Joint pain",
+      "Medicine": "Besides ibuprofen and naproxen, other examples of prescription NSAIDs include diclofenac (Cambia, Cataflam, Voltaren), etodolac (Lodine), meloxicam (Mobic), oxaprozin (Daypro), and piroxicam (Feldene)."
+    },
+    {
+      "S No.": 189,
+      "symptoms": "Muscle pain",
+      "Medicine": "Myoril 4mg Capsule"
+    },
+    {
+      "S No.": 190,
+      "symptoms": "Skin rash",
+      "Medicine": "Adapalene 0.1% gel (Acne)"
+    },
+    {
+      "S No.": 191,
+      "symptoms": "Itching",
+      "Medicine": " Benadryl (diphenhydramine), Zyrtec (cetirizine), Claritin (loratadine), Clarinex (desloratadine), Allegra (fexofenadine)"
+    },
+    {
+      "S No.": 192,
+      "symptoms": "Swelling of limbs",
+      "Medicine": "furosemide (Lasix)"
+    },
+    {
+      "S No.": 193,
+      "symptoms": "Jaundice",
+      "Medicine": "Rifampin."
+    },
+    {
+      "S No.": 194,
+      "symptoms": "Dark urine",
+      "Medicine": "Zenflox-UTI Tablet"
+    },
+    {
+      "S No.": 195,
+      "symptoms": "Pale stools",
+      "Medicine": "Lomovex 2mg Tablet"
+    },
+    {
+      "S No.": 196,
+      "symptoms": "Difficulty swallowing",
+      "Medicine": "Diltiazem"
+    },
+    {
+      "S No.": 197,
+      "symptoms": "Sore throat",
+      "Medicine": "Crocin 650 Tablets with Optizorb Formulation"
+    }
+  ]
+}
