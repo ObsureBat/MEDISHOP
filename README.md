@@ -60,4 +60,4 @@ This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE
 - Special thanks to the contributors who help improve this project.
 
 ## Contact
-For any inquiries or feedback, please reach out to the project maintainer at [your-email@example.com].
+For any inquiries or feedback, please reach out to the project maintainer at [ayushsharmasd03@gmail.com].
